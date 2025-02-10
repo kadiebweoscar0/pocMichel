@@ -489,14 +489,14 @@ export default function HomeScreen() {
             >
               <View style={{ width: 120, height: 150, borderRadius: 20 }}>
                 <Image
-                  source={require("../assets/images/Blazz.png")}
+                  source={require("../assets/images/galeri1.png")}
                   style={{ width: "100%", height: "100%", borderRadius: 20 }}
                 />
               </View>
 
               <View style={{ width: 120, height: 150, borderRadius: 20 }}>
                 <Image
-                  source={require("../assets/images/vano.png")}
+                  source={require("../assets/images/galeri2.png")}
                   style={{ width: "100%", height: "100%", borderRadius: 20 }}
                 />
               </View>
@@ -517,7 +517,7 @@ export default function HomeScreen() {
                   imageStyle={{
                     borderRadius: 20,
                   }}
-                  source={require("../assets/images/autre+3.png")}
+                  source={require("../assets/images/galeri3.png")}
                 >
                   <View
                     style={{
@@ -537,7 +537,7 @@ export default function HomeScreen() {
                         textAlign: "center",
                       }}
                     >
-                      3+
+                      30+
                     </Text>
                   </View>
                 </ImageBackground>
